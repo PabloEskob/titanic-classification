@@ -1,0 +1,14 @@
+# данные — не заливаем на GitHub, они тяжёлые и правила Kaggle против этого
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
